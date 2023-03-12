@@ -1,7 +1,8 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=gradient&text=Hi%20there%20👋)
-### 안드로이드 개발자를 준비하고 있는 채상윤이라고 합니다
 
 <div align="center">
+  
+  ### 안드로이드 개발자를 준비하고 있는 채상윤이라고 합니다
   
   ## Android Developer
   <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white">     <br>
