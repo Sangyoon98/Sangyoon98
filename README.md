@@ -19,8 +19,6 @@
   ![Sangyoon98 GitHub stats](https://github-readme-stats.vercel.app/api?username=Sangyoon98&show_icons=true&theme=transparent)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangyoon98&layout=compact&theme=transparent&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
   
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qlrqod123123)](https://solved.ac/qlrqod123123)
-  
   
 </div>
 
