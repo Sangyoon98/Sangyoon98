@@ -1,4 +1,4 @@
-### Hi there 👋
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=gradient&text=Hi%20there%20👋)
 ### 안드로이드 개발자를 준비하고 있는 채상윤이라고 합니다
 
 <div align="center">
@@ -35,22 +35,4 @@
   ![Sangyoon98 GitHub stats](https://github-readme-stats.vercel.app/api?username=Sangyoon98&show_icons=true&theme=transparent)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangyoon98&layout=compact&theme=transparent&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
   
-  
 </div>
-
-
- 
-<!--
-**Sangyoon98/Sangyoon98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
