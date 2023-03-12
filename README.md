@@ -15,9 +15,6 @@
   #### Cowork Tools
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/githb-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   
-  #### Design
-  <img src="https://img.shields.io/badge/adobe photoshop-31A8FF?style=for-the-badge&logo=adobe photoshop&logoColor=white"> <img src="https://img.shields.io/badge/adobe premiere pro-9999FF?style=for-the-badge&logo=adobe premiere pro&logoColor=white"> <img src="https://img.shields.io/badge/adobe after effects-9999FF?style=for-the-badge&logo=adobe after effects&logoColor=white">
-  
   #### Tech Blog
   [<img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">](https://sangyoon98.tistory.com/)
   
