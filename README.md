@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   
   #### Tech Blog
-  [<img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">](https://sangyoon98.tistory.com/)
+  [<img src="https://img.shields.io/badge/Sangyoooooon-000000?style=for-the-badge&logo=tistory&logoColor=white">](https://sangyoon98.tistory.com/)
   
   ##
   ![Sangyoon98 GitHub stats](https://github-readme-stats.vercel.app/api?username=Sangyoon98&show_icons=true&theme=transparent)
