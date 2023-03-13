@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=gradient&text=Hi%20there%20👋)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=gradient&text=Sangyoon98)
 
 <div align="center">
   
@@ -10,8 +10,8 @@
   <img src="https://img.shields.io/badge/retrofit2-48B983?style=for-the-badge">
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/MVVM Architecture-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/kotlin coroutines-3DDC84?style=for-the-badge">
-  <img src="https://img.shields.io/badge/kotlin flow-3DDC84?style=for-the-badge">
+  <img src="https://img.shields.io/badge/kotlin coroutines-7F52FF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/kotlin flow-7F52FF?style=for-the-badge">
   <img src="https://img.shields.io/badge/jetpack compose-4285F4?style=for-the-badge&logo=jetpack compose&logoColor=white">
   
   #### Language
