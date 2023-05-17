@@ -33,7 +33,6 @@
   [<img src="https://img.shields.io/badge/Sangyoooooon-000000?style=flat-square&logo=tistory&logoColor=white">](https://sangyoon98.tistory.com/)
   
   ##
-  ![Sangyoon98 GitHub stats](https://github-readme-stats.vercel.app/api?username=Sangyoon98&show_icons=true&theme=transparent)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangyoon98&layout=compact&theme=transparent&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangyoon98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
