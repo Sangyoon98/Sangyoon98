@@ -8,11 +8,12 @@
   <img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=white"><br>
   <img src="https://img.shields.io/badge/material design-757575?style=flat-square&logo=material design&logoColor=white">
   <img src="https://img.shields.io/badge/retrofit2-48B983?style=flat-square">
+  <img src="https://img.shields.io/badge/Room-48B983?style=flat-square">
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/MVVM Architecture-000000?style=flat-square">
   <img src="https://img.shields.io/badge/kotlin coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/kotlin flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
-  <!-- <img src="https://img.shields.io/badge/jetpack compose-4285F4?style=for-the-badge&logo=jetpack compose&logoColor=white"> -->
+  <img src="https://img.shields.io/badge/jetpack compose-4285F4?style=for-the-badge&logo=jetpack compose&logoColor=white">
   
   #### Language
   <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white">
