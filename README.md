@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/MVVM Architecture-000000?style=flat-square">
   <img src="https://img.shields.io/badge/kotlin coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/kotlin flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/jetpack compose-4285F4?style=for-the-badge&logo=jetpack compose&logoColor=white">
+  <img src="https://img.shields.io/badge/jetpack compose-4285F4?style=flat-square&logo=jetpack compose&logoColor=white">
   
   #### Language
   <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white">
