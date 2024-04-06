@@ -1,5 +1,5 @@
 # Hello, Sangyoon
-```
+```kotlin
 val sangyoon = DeveloperInfo(
   birthday = "1998-06-26",
   phoneNumber = "010-4736-3559",
