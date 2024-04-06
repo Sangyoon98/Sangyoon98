@@ -14,12 +14,12 @@ val sangyoon = DeveloperInfo(
 
 ## 💼 Career
 - 💻 헬로비즈 안드로이드 개발 (2023.06 ~ )
-  - 콩오더
-  - 콩오더 파트너스
-  - 콩오더 파트너스 (태블릿)
-  - 점심시간이야기 시설앱
-  - 점심시간이야기 부모앱
-  - 휴런 StrocareSuite Mobile
+  - [콩오더](https://play.google.com/store/apps/details?id=com.kongorder.kongorderapp&hl=ko-KR)
+  - [콩오더 파트너스](https://play.google.com/store/apps/details?id=com.kongorder.partner&hl=ko-KR)
+  - [콩오더 파트너스 (태블릿)](https://play.google.com/store/apps/details?id=com.kongorder.tablet&hl=ko-KR)
+  - [점심시간이야기 시설앱](https://play.google.com/store/apps/details?id=kr.hellobiz.kindergarten&hl=ko-KR)
+  - [점심시간이야기 부모앱](https://play.google.com/store/apps/details?id=kr.hellobiz.lunchstory&hl=ko-KR)
+  - [휴런 StrocareSuite Mobile](https://play.google.com/store/apps/details?id=com.iheuron.scs&hl=ko-KR)
   - 강남 Nutrition Care 시설앱
   - 강남 Nutrition Care 부모앱
   - 스마트 급식 플랫폼 시설앱
