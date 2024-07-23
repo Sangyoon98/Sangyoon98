@@ -13,7 +13,7 @@ val sangyoon = DeveloperInfo(
 - 🏫 용인고등학교 졸업 (2014.03 ~ 2017.02)
 
 ## 💼 Career
-- 💻 헬로비즈 안드로이드 개발 (2023.06 ~ )
+- 💻 헬로비즈 안드로이드 개발 (2023.06 ~ 2024.05)
   - [콩오더](https://play.google.com/store/apps/details?id=com.kongorder.kongorderapp&hl=ko-KR)
   - [콩오더 파트너스](https://play.google.com/store/apps/details?id=com.kongorder.partner&hl=ko-KR)
   - [콩오더 파트너스 (태블릿)](https://play.google.com/store/apps/details?id=com.kongorder.tablet&hl=ko-KR)
