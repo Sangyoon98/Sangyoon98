@@ -82,7 +82,7 @@ val sangyoon = DeveloperInfo(
   <br><img src="https://img.shields.io/badge/Hilt-7F52FF?style=flat-square&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=flat-square&logo=jetpack compose&logoColor=white"> <img src="https://img.shields.io/badge/Clean Architecture-000000?style=flat-square"> <img src="https://img.shields.io/badge/Kotlin Multi Platform-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
 
 ### iOS
- - In Progress....
+ - In Progress...
    <!-- - Swift -->
    <br><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white">
   
