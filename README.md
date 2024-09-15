@@ -6,6 +6,7 @@ val sangyoon = DeveloperInfo(
   emailAdress = "qlrqod123123@naver.com"
 )
 ```
+
 ## ✏️ Education
 - 🏫 강남대학교 소프트웨어응용학부 졸업 (2017.03 ~ 2023.02)
   - 전공: 소프트웨어 (주), 가상현실 (복수)
