@@ -13,6 +13,7 @@ val sangyoon = DeveloperInfo(
   - 평점 3.93 / 4.5
 - 🏫 용인고등학교 졸업 (2014.03 ~ 2017.02)
 
+
 ## 💼 Career
 - 💻 헬로비즈 안드로이드 개발 (2023.06 ~ 2024.05)
   - [점심시간이야기 시설앱](https://play.google.com/store/apps/details?id=kr.hellobiz.kindergarten&hl=ko-KR)
