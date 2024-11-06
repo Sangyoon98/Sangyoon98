@@ -92,6 +92,5 @@ val sangyoon = DeveloperInfo(
 ### Tech Blog
 [<img src="https://img.shields.io/badge/Sangyoooooon-000000?style=flat-square&logo=tistory&logoColor=white">](https://sangyoon98.tistory.com/)
 
-
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangyoon98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
