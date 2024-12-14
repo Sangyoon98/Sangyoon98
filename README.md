@@ -7,44 +7,8 @@ val sangyoon = DeveloperInfo(
 )
 ```
 
-## ✏️ Education
-- 🏫 강남대학교 소프트웨어응용학부 졸업 (2017.03 ~ 2023.02)
-  - 전공: 소프트웨어 (주), 가상현실 (복수)
-  - 평점 3.93 / 4.5
-- 🏫 용인고등학교 졸업 (2014.03 ~ 2017.02)
-
 ## 💼 Career
 - 💻 헬로비즈 안드로이드 개발 (2023.06 ~ 2024.05)
-  - [점심시간이야기 시설앱](https://play.google.com/store/apps/details?id=kr.hellobiz.kindergarten&hl=ko-KR)
-  - [점심시간이야기 부모앱](https://play.google.com/store/apps/details?id=kr.hellobiz.lunchstory&hl=ko-KR)
-  - [휴런 StrocareSuite Mobile](https://play.google.com/store/apps/details?id=com.iheuron.scs&hl=ko-KR)
-<!--  - [콩오더](https://play.google.com/store/apps/details?id=com.kongorder.kongorderapp&hl=ko-KR) -->
-<!--  - [콩오더 파트너스](https://play.google.com/store/apps/details?id=com.kongorder.partner&hl=ko-KR) -->
-<!--  - [콩오더 파트너스 (태블릿)](https://play.google.com/store/apps/details?id=com.kongorder.tablet&hl=ko-KR) -->
-<!--  - 강남 Nutrition Care 시설앱 -->
-<!--  - 강남 Nutrition Care 부모앱 -->
-<!--  - 스마트 급식 플랫폼 시설앱 -->
-<!--  - 스마트 급식 플랫폼 부모앱 -->
-
-- 💻 NHN 벅스 QA 아르바이트 (2019.09 ~ 2019.12)
-- 🇰🇷 육군훈련소 조교 복무 (2018.01.02 ~ 2019.09.04)
-
-## 🔥 Experience
-- 🧑🏻‍💻 멘토링 프로그램 (2021.09 ~ 2021.12)
-  - 모바일 프로그래밍 과목 멘토 활동
-- 📚 K-Project (2021.09 ~ 2021.12)
-  - 교내 사업으로 메타버스 프로젝트 제작
-- 🖥️ 코드잇 (2021.02 ~ 2021.05)
-  - Git으로 배우는 버전 관리, 웹 퍼블리싱, 유닉스 커맨드 라인 과목 이수
-
-## 🏆 Contest
-- 🥉 교내 응용 학술제 대회 **장려상**
-- 🥇 교내 캡스톤디자인 졸업종합평가 **최우수상**
-- 🥉 서울시 공공데이터 활용 경진대회 **장려상**
-
-## 🏅 Certificate
-- 🪪 정보기술자격(ITQ) OA Master
-- 🪪 ICDL Start Certification
 
 ## 🧑🏻‍💻 Technique
 ### Android
