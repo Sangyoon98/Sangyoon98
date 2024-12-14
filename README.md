@@ -6,7 +6,6 @@ val sangyoon = DeveloperInfo(
   emailAdress = "qlrqod123123@naver.com"
 )
 ```
-
 ## 💼 Career
 - 💻 헬로비즈 안드로이드 개발 (2023.06 ~ 2024.05)
 
