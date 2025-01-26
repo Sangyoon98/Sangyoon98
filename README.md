@@ -1,4 +1,3 @@
-
 # Hello, Sangyoon
 ```kotlin
 val sangyoon = DeveloperInfo(
