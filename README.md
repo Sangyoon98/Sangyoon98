@@ -7,7 +7,6 @@ val sangyoon = DeveloperInfo(
 )
 ```
 
-
 <center>
 
 [<img src="https://img.shields.io/badge/Sangyoooooon-000000?style=flat-square&logo=tistory&logoColor=white">](https://sangyoon98.tistory.com/)
