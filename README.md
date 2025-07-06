@@ -21,44 +21,18 @@
 <!--<div align=center><h1>📚 STACKS</h1></div>-->
 
 <div align=center>
-<!--   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/jetpackcompose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
+  <img src="https://skills.syvixor.com/api/icons?i=kotlin,jetpackcompose,android"/>
+  <!--<img src="https://skills.syvixor.com/api/icons?i=swift,swiftui,ios"/>-->
   <br>
-  <img src="https://img.shields.io/badge/ios-000000?style=for-the-badge&logo=ios&logoColor=white">
-  <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
-  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://skills.syvixor.com/api/icons?i=html,css3,js,ts,react,vue,tailwind,styledcomponents"/>
   <br>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-  <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
+  <img src="https://skills.syvixor.com/api/icons?i=java,spring,python,flask,mysql,mongodb"/>
   <br>
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://skills.syvixor.com/api/icons?i=git,github,bitbucket"/>
   <br>
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <!--<img src="https://skills.syvixor.com/api/icons?i=csharp,unity,unrealengine"/>-->
   <br>
-  <br> -->
-  
-  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio"/>
-  <br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,styledcomponents"/>
-  <br>
-  <img src="https://skillicons.dev/icons?i=spring,python,flask,mysql,mongodb"/>
-  <!--<br>-->
-  <img src="https://skillicons.dev/icons?i=git,github,bitbucket"/>
+  <!--<img src="https://skills.syvixor.com/api/icons?i=jira,confluence,notion,figma,ps,premierepro,ae"/>-->
 </div>
 
 <br>
