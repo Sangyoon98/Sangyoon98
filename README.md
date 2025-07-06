@@ -7,8 +7,8 @@
   
 </div>
 
-<div align=center><h1>☎️ CONTACTS</h1></div>
-
+<!--<div align=center><h1>☎️ CONTACTS</h1></div>-->
+<br>
 <div align=center>
   <a href="https://sangyoon98.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white&link=https://sangyoon98.tistory.com/" /></a>
   <a href="mailto:qlrqod123123@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white&link=mailto:qlrqod123123@gmail.com" /></a>
@@ -16,63 +16,61 @@
 </div>
 
 <br>
+<br>
  
-<div align=center><h1>📚 STACKS</h1></div>
+<!--<div align=center><h1>📚 STACKS</h1></div>-->
 
 <div align=center>
+<!--   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/jetpackcompose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
   <br>
-  
-  <!--<img src="https://img.shields.io/badge/ios-000000?style=for-the-badge&logo=ios&logoColor=white">-->
-  <!--<img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">-->
-  <!--<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">-->
+  <img src="https://img.shields.io/badge/ios-000000?style=for-the-badge&logo=ios&logoColor=white">
+  <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
+  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
   <br>
-  <br>
-
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <br>
-  <br>
-  
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</div>
-<br>
-
-<div align=center><h2>📚 Now Im studying</h2></div>
-<div align=center>
-  <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=black">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-  <br>
-  
   <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
   <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
   <br>
-  <br>
-  
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <!--<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">-->
-  <!--<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">-->
-  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <br>
+  <br> -->
+  
+  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,styledcomponents"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=spring,python,flask,mysql,mongodb"/>
+  <!--<br>-->
+  <img src="https://skillicons.dev/icons?i=git,github,bitbucket"/>
 </div>
+
 <br>
 <br>
 
 <div align=center>
-  <a href="https://solved.ac/qlrqod123123"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qlrqod123123" alt="Solved.ac 프로필" /></a>
+  <a href="https://solved.ac/qlrqod123123"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=qlrqod123123" alt="Solved.ac 프로필" /></a>
+  <br>
+  <br>
   <img src="http://mazandi.herokuapp.com/api?handle=qlrqod123123&theme=warm"/>
   <br>
   <br>
   <a href="https://github.com/Sangyoon98/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangyoon98&theme=transparent&layout=compact" alt="Top Langs" /></a>
-  <a href="https://github.com/Sangyoon98/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Sangyoon98&theme=transparent&show_icons=true" alt="Top Langs" /></a>
+  <!--<a href="https://github.com/Sangyoon98/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Sangyoon98&theme=transparent&show_icons=true" alt="Top Langs" /></a>-->
 </div>
