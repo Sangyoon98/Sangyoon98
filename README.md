@@ -22,7 +22,7 @@
 
 <div align=center>
   <img src="https://skills.syvixor.com/api/icons?i=kotlin,jetpackcompose,android"/>
-  <!--<img src="https://skills.syvixor.com/api/icons?i=swift,swiftui,ios"/>-->
+  <img src="https://skills.syvixor.com/api/icons?i=swift,swiftui,ios"/>
   <br>
   <img src="https://skills.syvixor.com/api/icons?i=html,css3,js,ts,react,vue,tailwind,styledcomponents"/>
   <br>
