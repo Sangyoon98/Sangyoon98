@@ -28,9 +28,11 @@
   <br>
   <img src="https://skills.syvixor.com/api/icons?i=html,css3,js,ts,react,vue,tailwind,styledcomponents"/>
   <br>
-  <img src="https://skills.syvixor.com/api/icons?i=java,spring,mysql"/>
+  <img src="https://skills.syvixor.com/api/icons?i=java,spring,ktor,mysql,firebase,supabase"/>
   <br>
   <img src="https://skills.syvixor.com/api/icons?i=git,github,bitbucket"/>
+  <br>
+  <img src="https://skills.syvixor.com/api/icons?i=chatgpt,cursor,claudeai,googlegemini"/>
   <br>
   <!--<img src="https://skills.syvixor.com/api/icons?i=csharp,unity,unrealengine"/>-->
   <br>
