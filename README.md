@@ -51,6 +51,6 @@
   <!-- <img src="http://mazandi.herokuapp.com/api?handle=qlrqod123123&theme=dark"/> -->
   <br>
   <br>
-  <a href="https://github.com/Sangyoon98/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangyoon98&theme=transparent&layout=compact" alt="Top Langs" /></a>
+  <!-- <a href="https://github.com/Sangyoon98/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangyoon98&theme=transparent&layout=compact" alt="Top Langs" /></a> -->
   <!--<a href="https://github.com/Sangyoon98/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Sangyoon98&theme=transparent&show_icons=true" alt="Top Langs" /></a>-->
 </div>
