@@ -9,7 +9,6 @@
   
 </div>
 
-<!--<div align=center><h1>☎️ CONTACTS</h1></div>-->
 <br>
 <div align=center>
   <a href="https://sangyoon98.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white&link=https://sangyoon98.tistory.com/" /></a>
@@ -20,8 +19,6 @@
 
 <br>
 <br>
- 
-<!--<div align=center><h1>📚 STACKS</h1></div>-->
 
 <div align=center>
   <img src="https://skills.syvixor.com/api/icons?i=kotlin,jetpackcompose,android"/>
