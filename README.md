@@ -37,6 +37,7 @@
   <!--<img src="https://skills.syvixor.com/api/icons?i=jira,confluence,notion,figma,ps,premierepro,ae"/>-->
 </div>
 
+
 <br>
 <br>
 
