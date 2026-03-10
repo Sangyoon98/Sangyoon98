@@ -12,9 +12,7 @@
 <br>
 <div align=center>
   <a href="https://sangyoon98.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white&link=https://sangyoon98.tistory.com/" /></a>
-  <a href="mailto:qlrqod123123@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white&link=mailto:qlrqod123123@gmail.com" /></a>
-  <a href="mailto:qlrqod123123@gmail.com"><img src="https://img.shields.io/badge/gmail(Persional)-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:qlrqod123123@gmail.com" /></a>
-  <a href="mailto:dev.sangyoon@gmail.com"><img src="https://img.shields.io/badge/gmail(Work)-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dev.sangyoon@gmail.com" /></a>
+  <a href="mailto:dev.sangyoon@gmail.com"><img src="https://img.shields.io/badge/gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dev.sangyoon@gmail.com" /></a>
 </div>
 
 <br>
