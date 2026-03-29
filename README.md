@@ -26,7 +26,7 @@
   <br>
   <img src="https://skills.syvixor.com/api/icons?i=java,spring,ktor,mysql,firebase,supabase"/>
   <br>
-  <img src="https://skills.syvixor.com/api/icons?i=git,github,bitbucket"/>
+  <img src="https://skills.syvixor.com/api/icons?i=git,github,gitlab,bitbucket,dooray"/>
   <br>
   <img src="https://skills.syvixor.com/api/icons?i=chatgpt,cursor,claudeai,googlegemini"/>
   <br>
