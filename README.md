@@ -1,4 +1,3 @@
-
 <div align=center>
   <p>
     안드로이드 개발을 주로 하며<br><br>
