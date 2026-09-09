@@ -5,7 +5,7 @@
   </p>
   <br>
 
-  <h2><a href="https://www.sangyoon.me/">Sangyoon Portfolio</h2>
+  <h2><a href="https://www.sangyoon.dev/">Sangyoon Portfolio</h2>
   
 </div>
 
