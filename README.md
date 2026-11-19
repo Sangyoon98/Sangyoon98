@@ -5,8 +5,8 @@
   </p>
   <br>
 
-  <h2><a href="https://www.sangyoon.dev/">Sangyoon Portfolio</h2>
-  
+<h2><a href="https://www.sangyoon.dev/">Sangyoon Portfolio</h2>
+
 </div>
 
 <br>
@@ -19,20 +19,24 @@
 <br>
 
 <div align=center>
-  <img src="https://skills.syvixor.com/api/icons?i=kotlin,jetpackcompose,android"/>
-  <img src="https://skills.syvixor.com/api/icons?i=swift,swiftui,ios"/>
-  <br>
-  <img src="https://skills.syvixor.com/api/icons?i=html,css3,js,ts,react,vue,tailwind,styledcomponents"/>
-  <br>
-  <img src="https://skills.syvixor.com/api/icons?i=java,spring,ktor,mysql,firebase,supabase"/>
-  <br>
-  <img src="https://skills.syvixor.com/api/icons?i=git,github,gitlab,bitbucket,dooray"/>
-  <br>
-  <img src="https://skills.syvixor.com/api/icons?i=chatgpt,cursor,claudeai,googlegemini"/>
-  <br>
+  <h4>Mobile</h4>
+    <img src="https://skills.syvixor.com/api/icons?i=kotlin,jetpackcompose,android,kotlinmultiplatform,composemultiplatform"/>
+    <img src="https://skills.syvixor.com/api/icons?i=swift,swiftui,ios"/>
+    <img src="https://skills.syvixor.com/api/icons?i=reactnative"/><!--flutter-->
+  <h4>Frontend</h4>
+    <img src="https://skills.syvixor.com/api/icons?i=html,css3,js,ts,react,nextjs,vue,tailwind,styledcomponents"/>
+  <h4>Backend</h4>
+    <img src="https://skills.syvixor.com/api/icons?i=java,spring,ktor,mysql,postgresql,firebase,supabase"/>
+  <h4>Infra</h4>
+    <img src="https://skills.syvixor.com/api/icons?i=aws,docker,cloudflare,vercel,expo"/>
+  <h4>Collaboration</h4>
+    <img src="https://skills.syvixor.com/api/icons?i=git,github,gitlab,bitbucket,dooray,jira,notion,figma"/>
+
+  <h4>AI</h4>
+    <img src="https://skills.syvixor.com/api/icons?i=chatgpt,cursor,claudeai,googlegemini"/>
+
   <!--<img src="https://skills.syvixor.com/api/icons?i=csharp,unity,unrealengine"/>-->
-  <br>
-  <!--<img src="https://skills.syvixor.com/api/icons?i=jira,confluence,notion,figma,ps,premierepro,ae"/>-->
+  <!--<img src="https://skills.syvixor.com/api/icons?i=confluence,ps,premierepro,ae"/>-->
 </div>
 
 <br>
@@ -42,7 +46,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sangyoon98.sangyoon98"  />
   <a href="https://solved.ac/qlrqod123123"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=qlrqod123123" alt="Solved.ac 프로필" /></a>
   <br>
-  
+
   <br>
   <!-- <img src="http://mazandi.herokuapp.com/api?handle=qlrqod123123&theme=dark"/> -->
   <br>
